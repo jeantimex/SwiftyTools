@@ -23,6 +23,7 @@ class SwiftyToolsTests: XCTestCase {
         // Use XCTAssert and related functions to verify your tests produce the correct results.
         let tools = SwiftyTools(x: 0, y: 0)
         XCTAssertEqual(tools.add(a: 1, b: 1), 2)
+        XCTAssertEqual(tools.sub(a: 2, b: 1), 1)
     }
 
     func testPerformanceExample() {

@@ -14,8 +14,10 @@
 			<key>orderHint</key>
 			<integer>2</integer>
 		</dict>
-		<key>SwiftyToolsTests.xcscheme_^#shared#^_</key>
+		<key>SwiftyToolsTests.xcscheme</key>
 		<dict>
+			<key>isShown</key>
+			<false/>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
