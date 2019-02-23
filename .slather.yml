@@ -1,0 +1,7 @@
+coverage_service: cobertura_xml
+xcodeproj: SwiftyTools.xcodeproj
+scheme: SwiftyTools
+output_directory: reports
+ignore:
+  - SwiftyToolsTests/*
+
