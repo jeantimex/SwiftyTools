@@ -26,13 +26,6 @@
 			remoteGlobalIDString = 1A6B16A9222081CA002BA5C4;
 			remoteInfo = SwiftyTools;
 		};
-		1A6B16D822208506002BA5C4 /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 1A6B169F2220808F002BA5C4 /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 1A6B16C5222082F2002BA5C4;
-			remoteInfo = SwiftyToolsExamples;
-		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
@@ -182,7 +175,6 @@
 			);
 			dependencies = (
 				1A6B16BE22208272002BA5C4 /* PBXTargetDependency */,
-				1A6B16D922208506002BA5C4 /* PBXTargetDependency */,
 			);
 			name = SwiftyToolsTests;
 			productName = SwiftyToolsTests;
@@ -307,11 +299,6 @@
 			isa = PBXTargetDependency;
 			target = 1A6B16A9222081CA002BA5C4 /* SwiftyTools */;
 			targetProxy = 1A6B16BD22208272002BA5C4 /* PBXContainerItemProxy */;
-		};
-		1A6B16D922208506002BA5C4 /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 1A6B16C5222082F2002BA5C4 /* SwiftyToolsExamples */;
-			targetProxy = 1A6B16D822208506002BA5C4 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
